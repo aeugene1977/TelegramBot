@@ -1,4 +1,4 @@
-TOKEN = "7918016774:AAEzAPwcWij1Zt05luYp4VqStuoRkrm6_gw"
+TOKEN = "данные в личном сообщении"
 exchanges = {
     'доллар': 'USD',
     'евро': 'EUR',
